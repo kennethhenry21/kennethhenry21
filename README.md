@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennethhenry21
 - 👀 I’m interested in Medicine and Programming
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Studying for USMLE 
 - 💞️ I’m looking to collaborate on "BIOPYTHON"
 - 📫 How to reach me negrik21@aim.com
 
